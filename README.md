@@ -75,7 +75,7 @@ ESP32 • Arduino UNO • Raspberry Pi • Sensors • PLC
     <img src="https://skillicons.dev/icons?i=webflow" />
   </a>
 
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:akshad2907@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
