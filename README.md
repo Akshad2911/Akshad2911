@@ -67,10 +67,10 @@ ESP32 • Arduino UNO • Raspberry Pi • Sensors • PLC
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/akshad-dhamande-313363324?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <a href="[https://linkedin.com/in/(https://www.linkedin.com/in/akshad-dhamande-313363324?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href=" https://akshaddhamande.framer.website/">
+  <a href=" https://akshaddhamande.framer.website">
     <img src="https://skillicons.dev/icons?i=webflow" />
   </a>
   <a href="mailto:akshad2907@gmail.com">
