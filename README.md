@@ -34,9 +34,22 @@ I enjoy turning **ideas into working prototypes** and explaining systems through
 </p>
 
 
-**Hardware & Platforms:**  
-ESP32 • Arduino UNO • Raspberry Pi • Sensors • PLC  
-**Design Tools:** Cadence Virtuoso • MATLAB • Android Studio
+## 🧠 Languages & Tools
+
+**Programming & Scripting**  
+C++ • Python • MATLAB
+
+**HDL & Digital Design**  
+Verilog HDL • SystemVerilog • FSM Design
+
+**EDA & Development Tools**  
+Cadence Virtuoso • Quartus II 
+
+**Hardware & Platforms**  
+ESP32 • Arduino UNO • Raspberry Pi • FPGA • Sensors
+
+**Communication Protocols**  
+UART • SPI • I²C • Bluetooth
 
 ---
 
