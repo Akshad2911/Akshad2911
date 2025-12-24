@@ -10,7 +10,7 @@ ECE Student | Embedded Systems | Verilog & VLSI | IoT Enthusiast
 🚀 Building real-world hardware–software systems | 🌌 Space & Innovation Driven 
 </p>
 
-<img align="right" alt="Coding" width="350"
+<img align="right" alt="Coding" width="330"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRpMmtobmhrdTZqMml2cjA4MTcxZnZsM204N3oxbnR6a3JmdWs1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
