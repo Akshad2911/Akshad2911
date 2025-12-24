@@ -1,7 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Banner" />
-</p>
+![logo](https://raw.githubusercontent.com/Akshad2911/Akshad2911/main/Github%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Akshad D.</h1>
 <h3 align="center">
