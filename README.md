@@ -11,7 +11,7 @@ ECE Student | Embedded Systems | Verilog & VLSI | IoT Enthusiast
 </p>
 
 <img align="right" alt="Coding" width="400"
-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRpMmtobmhrdTZqMml2cjA4MTcxZnZsM204N3oxbnR6a3JmdWs1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">=
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRpMmtobmhrdTZqMml2cjA4MTcxZnZsM204N3oxbnR6a3JmdWs1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 I’m an **Electronics & Communication Engineering student** passionate about  
