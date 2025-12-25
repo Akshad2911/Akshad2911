@@ -30,7 +30,7 @@ I enjoy turning **ideas into working prototypes** and explaining systems through
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,raspberrypi" />
 </p>
 
 
