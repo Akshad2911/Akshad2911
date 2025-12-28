@@ -33,7 +33,6 @@ I enjoy turning **ideas into working prototypes** and explaining systems through
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,raspberrypi" />
 </p>
 
-
 ## 🧠 Languages & Tools
 
 **Programming & Scripting**  
@@ -76,6 +75,14 @@ UART • SPI • I²C • Bluetooth
 - Output on dual 7-segment displays   
 
 ---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Akshad2911&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 ## 🌐 Let’s Connect
 
@@ -91,7 +98,10 @@ UART • SPI • I²C • Bluetooth
   <a href="mailto:akshad2907@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
+
+  <a href="https://www.instagram.com/akshad2907" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 
 ---
 
