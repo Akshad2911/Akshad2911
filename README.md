@@ -1,5 +1,7 @@
 <!-- ===================== BANNER ===================== -->
-![logo](https://raw.githubusercontent.com/Akshad2911/Akshad2911/main/Github%20banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshad2911/Akshad2911/main/Github%20banner.png" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Akshad D.</h1>
 <h3 align="center">
@@ -7,12 +9,11 @@ ECE Student | Embedded Systems | Verilog & VLSI | IoT Enthusiast
 </h3>
 
 <p align="center">
-🚀 Building real-world hardware–software systems | 🌌 Space & Innovation Driven 
+🚀 Building real-world hardware–software systems | 🌌 Space & Innovation Driven
 </p>
 
 <img align="right" alt="Coding" width="330"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRpMmtobmhrdTZqMml2cjA4MTcxZnZsM204N3oxbnR6a3JmdWs1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
 
 I’m an **Electronics & Communication Engineering student** passionate about  
 **embedded systems, digital design, and VLSI**.
@@ -27,11 +28,13 @@ I enjoy turning **ideas into working prototypes** and explaining systems through
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack (Icons)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,arduino,raspberrypi" />
 </p>
+
+---
 
 ## 🧠 Languages & Tools
 
@@ -42,7 +45,7 @@ C++ • Python • MATLAB
 Verilog HDL • SystemVerilog • FSM Design
 
 **EDA & Development Tools**  
-Cadence Virtuoso • Quartus II 
+Cadence Virtuoso • Quartus II
 
 **Hardware & Platforms**  
 ESP32 • Arduino UNO • Raspberry Pi • FPGA • Sensors
@@ -72,15 +75,17 @@ UART • SPI • I²C • Bluetooth
 ### 🧮 PS/2 Keyboard Based ALU (FPGA)
 - FSM-based Verilog design  
 - Supports addition, subtraction & multiplication  
-- Output on dual 7-segment displays   
+- Output on dual 7-segment displays  
 
 ---
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akshad2911&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=Akshad2911&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
@@ -92,7 +97,7 @@ UART • SPI • I²C • Bluetooth
   </a>
 
   <a href="https://akshaddhamande.framer.website" target="_blank">
-    <img src="https://skillicons.dev/icons?i=webflow" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framer.svg" width="48" />
   </a>
 
   <a href="mailto:akshad2907@gmail.com">
@@ -102,6 +107,7 @@ UART • SPI • I²C • Bluetooth
   <a href="https://www.instagram.com/akshad2907" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+</p>
 
 ---
 
