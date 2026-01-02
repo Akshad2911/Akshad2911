@@ -3,7 +3,7 @@
   <img src="https://github.com/Akshad2911/Akshad2911/blob/main/Github%20Banner.png" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Akshad D.</h1>
+<h1 align="center">Welcome to my Github Profile</h1>
 <h3 align="center">
 ECE Student | Embedded Systems | Verilog & VLSI | IoT Enthusiast
 </h3>
@@ -28,7 +28,7 @@ I enjoy turning **ideas into working prototypes** and explaining systems through
 
 ---
 
-## 🛠️ Tech Stack (Icons)
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,matlab,arduino,raspberrypi" />
