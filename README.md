@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://github.com/Akshad2911/Akshad2911/blob/main/Github%20Banner.png" />
+  <img src="https://github.com/Akshad2911/Akshad2911/blob/main/Github%20banner%20gif.gif" />
 </p>
 
 <h1 align="center">Welcome to my Github Profile</h1>
