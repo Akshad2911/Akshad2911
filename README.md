@@ -45,7 +45,7 @@ C++ • Python • MATLAB
 Verilog HDL • SystemVerilog • FSM Design
 
 **EDA & Development Tools**  
-Cadence Virtuoso • Quartus II
+Cadence Virtuoso • Quartus II • EDA Playground
 
 **Hardware & Platforms**  
 ESP32 • Arduino UNO • Raspberry Pi • FPGA • Sensors
