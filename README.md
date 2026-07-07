@@ -3,28 +3,29 @@
   <img src="https://github.com/Akshad2911/Akshad2911/blob/main/Github%20banner%20gif.gif" />
 </p>
 
-<h1 align="center">Welcome to my Github Profile</h1>
 <h3 align="center">
-ECE Student | Embedded Systems | Verilog & VLSI | IoT Enthusiast
+VLSI Design Engineer | RTL Design | Physical Design | FPGA Development
 </h3>
 
 <p align="center">
-🚀 Building real-world hardware–software systems | 🌌 Space & Innovation Driven
+🔬 Verilog • SystemVerilog • Cadence Virtuoso • CMOS Design • SRAM • Digital IC Design
 </p>
 
 <img align="right" alt="Coding" width="330"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRpMmtobmhrdTZqMml2cjA4MTcxZnZsM204N3oxbnR6a3JmdWs1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I’m an **Electronics & Communication Engineering student** passionate about  
-**embedded systems, digital design, and VLSI**.
+I'm an **Electronics & Communication Engineering** student passionate about
+**VLSI, Digital Design, FPGA, and Embedded Systems**.
 
-- 🔧 Strong hands-on experience with **ESP32, Arduino & Raspberry Pi**
-- 🧩 Design-oriented mindset using **FSM & Verilog/SystemVerilog**
-- 🧠 Currently working on **SRAM (6T, 8T, 10T) design in Cadence**
-- 👟 Built a **Smart Shoe for Gait Analysis**
-- 🌌 Inspired by **ISRO, NASA & space technologies**
+- 🔧 Hands-on experience with **ESP32, Arduino, Raspberry Pi & FPGA**
+- 💻 Skilled in **Verilog, SystemVerilog, FSM Design & RTL Development**
+- 🧠 Designing **6T, 8T & 10T SRAM cells** using **Cadence Virtuoso**
+- ⚡ Experienced in **Analog IC Design, Layout, DRC, LVS & PEX Verification**
+- 👟 Developed a **Smart Shoe for Real-Time Gait Analysis**
+- 🚀 Passionate about **Semiconductor Technology, ISRO, NASA & Space Systems**
 
 I enjoy turning **ideas into working prototypes** and explaining systems through design.
+
 
 ---
 
@@ -38,44 +39,53 @@ I enjoy turning **ideas into working prototypes** and explaining systems through
 
 ## 🧠 Languages & Tools
 
-**Programming & Scripting**  
+**Programming Languages**  
 C++ • Python • MATLAB
 
-**HDL & Digital Design**  
-Verilog HDL • SystemVerilog • FSM Design
+**Hardware Description Languages (HDLs)**  
+Verilog HDL • SystemVerilog
 
-**EDA & Development Tools**  
-Cadence Virtuoso • Quartus II • EDA Playground
+**VLSI & EDA Tools**  
+Cadence Virtuoso • Quartus Prime • Vivado • OpenROAD • EDA Playground
 
-**Hardware & Platforms**  
-ESP32 • Arduino UNO • Raspberry Pi • FPGA • Sensors
+**Digital Design & Verification**  
+RTL Design • FSM Design • DRC • LVS • PEX • GDSII
+
+**Hardware Platforms**  
+FPGA • ESP32 • Arduino UNO • Raspberry Pi
 
 **Communication Protocols**  
-UART • SPI • I²C • Bluetooth
-
+UART • SPI • I²C • PS/2 • Bluetooth
 ---
 
 ## 🚀 Projects
 
-### 👟 Fittract – Smart Shoe for Gait Analysis
-- ESP32-based wearable for real-time gait monitoring  
-- Measures step count, speed & inclination  
-- Bluetooth-enabled Android application  
-- Designed for elderly care, athletes & defense use  
+### ⚡ Implementation and Verification of OTA & Schmitt Trigger
+
+* Designed and simulated OTA & Schmitt Trigger circuits in Cadence Virtuoso
+* Completed schematic design, layout implementation & circuit verification
+* Performed AC analysis, DRC, LVS, PEX & GDSII generation
+* Gained hands-on experience in analog CMOS circuit design and validation
 
 ---
 
 ### 🧠 SRAM Design (Major Project)
-- Designed **6T, 8T & 10T SRAM cells**
-- Focused on power, stability & performance analysis  
-- Implemented using **Cadence tools**
+
+* Designed and analyzed **6T, 8T & 10T SRAM cells** using **Cadence Virtuoso**
+* Evaluated **read/write stability, power consumption & performance**
+* Performed schematic design, layout implementation & circuit verification
+* Conducted **DRC, LVS, PEX and post-layout simulations** for design validation
+
 
 ---
 
 ### 🧮 PS/2 Keyboard Based ALU (FPGA)
-- FSM-based Verilog design  
-- Supports addition, subtraction & multiplication  
-- Output on dual 7-segment displays  
+
+* Designed an **FSM-based ALU** in Verilog with **PS/2 keyboard** interface
+* Supports **addition, subtraction & multiplication** of single-digit inputs
+* Displays real-time results on **dual 7-segment displays**
+* Verified functionality through **simulation and FPGA implementation**
+
 
 ---
 
