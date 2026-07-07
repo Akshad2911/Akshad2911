@@ -56,6 +56,7 @@ FPGA • ESP32 • Arduino UNO • Raspberry Pi
 
 **Communication Protocols**  
 UART • SPI • I²C • PS/2 • Bluetooth
+
 ---
 
 ## 🚀 Projects
