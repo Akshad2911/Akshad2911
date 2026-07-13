@@ -121,7 +121,7 @@ I enjoy turning **ideas into working prototypes** and explaining systems through
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshad2911&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Akshad2911&theme=highcontrast&hide_border=true&border_radius=10" />
 </p>
 
 ---
