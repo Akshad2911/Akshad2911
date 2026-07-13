@@ -90,10 +90,6 @@ UART • SPI • I²C • PS/2 • Bluetooth
 
 ---
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Akshad2911&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
