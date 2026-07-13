@@ -40,22 +40,43 @@ I enjoy turning **ideas into working prototypes** and explaining systems through
 ## 🧠 Languages & Tools
 
 **Programming Languages**  
-C++ • Python • MATLAB
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+
 
 **Hardware Description Languages (HDLs)**  
-Verilog HDL • SystemVerilog
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-6A0DAD?style=for-the-badge&logoColor=white)
 
 **VLSI & EDA Tools**  
-Cadence Virtuoso • Quartus Prime • Vivado • OpenROAD • EDA Playground
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-red?style=for-the-badge)
+![Quartus Prime](https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+![OpenROAD](https://img.shields.io/badge/OpenROAD-009688?style=for-the-badge)
+![EDA Playground](https://img.shields.io/badge/EDA_Playground-1E88E5?style=for-the-badge)
+
 
 **Digital Design & Verification**  
-RTL Design • FSM Design • DRC • LVS • PEX • GDSII
+![RTL Design](https://img.shields.io/badge/RTL_Design-4CAF50?style=for-the-badge)
+![FSM Design](https://img.shields.io/badge/FSM_Design-673AB7?style=for-the-badge)
+![DRC](https://img.shields.io/badge/DRC-2196F3?style=for-the-badge)
+![LVS](https://img.shields.io/badge/LVS-FF9800?style=for-the-badge)
+![PEX](https://img.shields.io/badge/PEX-9C27B0?style=for-the-badge)
+![GDSII](https://img.shields.io/badge/GDSII-795548?style=for-the-badge)
 
 **Hardware Platforms**  
-FPGA • ESP32 • Arduino UNO • Raspberry Pi
+![FPGA](https://img.shields.io/badge/FPGA-00979D?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 **Communication Protocols**  
-UART • SPI • I²C • PS/2 • Bluetooth
+![UART](https://img.shields.io/badge/UART-3F51B5?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-009688?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I²C-607D8B?style=for-the-badge)
+![PS/2](https://img.shields.io/badge/PS%2F2-795548?style=for-the-badge)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
 ---
 
@@ -90,7 +111,14 @@ UART • SPI • I²C • PS/2 • Bluetooth
 
 ---
 
+## 📈 GitHub Stats
 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akshad2911&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
